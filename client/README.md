@@ -1,70 +1,83 @@
-# Getting Started with Create React App
+![](https://img.shields.io/static/v1?label=BY&message=Reemoz&color=red)
+<!-- Feel Free to Add, Update, Delete Any Section you find needs so -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Chat App Mern Stack
 
-## Available Scripts
+> A Simple Software app made with react for front end and node.js for backend with Socket.io to create a server to help make a chat between two person with beautifull UI.🔥💯🚀
 
-In the project directory, you can run:
 
-### `npm start`
+## Video Demo 🎥
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Live Demo 🌐
 
-### `npm run build`
+[![Heroku](https://img.shields.io/badge/Heroku-deploy-yellow)]()
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Built With
 
-### `npm run eject`
+- Languages: _**HTML, CSS, JAVASCRIPT, REACT, NODE.JS MONGODB, HEROKU, NETIFLY**_
+- Technologies used: _**GIT, GITHUB, LINTERS**_
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Additional tools
+ - Google Gonts
+ - Color Hunt
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Getting Started
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Clone this repository
 
-## Learn More
+```bash
+$ git clone https://github.com/Reem-lab/chat-app.git
+$ cd chat-app
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+$ npm install
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+$ cd client
 
-### Code Splitting
+$ npm i
+```
+### To run the code
+```bash
+$ npm run dev
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+### Deployment -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Authors
 
-### Making a Progressive Web App
+<!-- Only Change Username for Different Accounts -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+👤 **Reem**
 
-### Advanced Configuration
+ Platform | Badge |
+ --- | --- |
+ **GitHub**  | [@Reem-lab](https://github.com/Reem-lab)
+ **Twitter** | [Rem79940127](https://twitter.com/Rem79940127)
+ **LinkdIn** | [reem-janina](https://www.linkedin.com/in/reem-janina-ab74ab21a/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+## 🤝 Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Contributions, issues, and feature requests are welcome!
 
-### `npm run build` fails to minify
+Feel free to check the [issues page](../../issues).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](/LICENSE) licensed.
